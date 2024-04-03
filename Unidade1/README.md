@@ -12,7 +12,7 @@ Caracterizar o aspecto de formação dirigida para o desenvolvimento científico
 
 ### Professor
 
-- [Apresentação do Professor](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Apresentação do Professor")  
+- [Apresentação do Professor](https://www.linkedin.com/in/sandomarinho "Apresentação do Professor")  
 - Avisos: os avisos serão feitos todos pelo Teams
 
 ### Plano de Ensino

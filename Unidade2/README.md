@@ -57,7 +57,7 @@ A linha do tempo será um infográfico, utilizando o material coletado desde a a
 
 Softwares sugeridos para elaboração do infográfico são [https://www.easel.ly](https://www.easel.ly "https://www.easel.ly") e [https://www.canva.com](https://www.canva.com "https://www.canva.com"), mas se vocês tiverem familiaridade com outro software, podem usar. Após construído, gere uma imagem ou um pdf de sua linha do tempo e poste no fórum [InfoGráfico](https://ava3.furb.br/mod/forum/view.php?id=513741 "InfoGráfico") no AVA3. Um único integrante precisa fazer a postagem. Também lembrem de compartilhar o acesso ao infográfico com o professor (sandovalc@furb.br).  
 
-A data limite para postagem é 09/Setembro/2021.  
+A data limite para postagem é 10/Abril/2024.  
 
 Esta é uma atividade de avaliação. Portanto, lembre-se de postar também os nomes dos integrantes da equipe e colocar os nomes na imagem do infográfico.  
 

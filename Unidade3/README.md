@@ -12,19 +12,19 @@ Iniciaremos esta unidade com uma atividade para as equipes analisando uma pesqui
 A Pesquisa Anual da Stack Overflow é a maior e mais abrangente pesquisa sobre pessoas que programam ao redor do mundo.  
 Na versão 2023 (13a edição da pesquisa), quase 80 mil desenvolvedores de 180 países participaram, qualificando os resultados como uma real fotografia do universo dos que trabalham nos bastidores da informática.  
 
-#### Atividade Developer Survey Results 2021
+#### Atividade Developer Survey Results 2023
 
 Na aula de hoje iremos conhecer seus resultados e refletir um pouco sobre nossa carreira.  
 Os grupos são as equipes que já foram definidas, preparem seu inglês e vamos lá!  
 
 <https://insights.stackoverflow.com/survey/2023>  
 
-A equipe deve responder as perguntas abaixo observando os resultados da pesquisa 2021. O conjunto de respostas será postado como um novo tópico de discussão do fórum no [AVA3](<https://ava3.furb.br/mod/assign/view.php?id=904311> "AVA3"). Não esqueçam de identificar os membros da equipe no início da resposta.  
+A equipe deve responder as perguntas abaixo observando os resultados da pesquisa 2023. O conjunto de respostas será postado como um novo tópico de discussão do fórum no [AVA3](<https://ava3.furb.br/mod/assign/view.php?id=904311> "AVA3"). Não esqueçam de identificar os membros da equipe no início da resposta.  
 
 Quando uma pergunta apresentar seus resultados separando os desenvolvedores profissionais (professional developers), utilize estes dados para basear sua resposta (a aba dos desenvolvedores profissionais).  
 Se a pergunta fizer menção a cada membro da equipe, coloque o nome de cada um e sua respectiva resposta.  
 
-1. Que tipos de atividades ligadas a desenvolvimento de software podem ser listadas ? O que vocês imaginam que façam três delas? Descrevam brevemente cada uma das três.  
+1. Que tipos de atividades ligadas a desenvolvimento de software podem ser listadas? O que vocês imaginam que façam três delas? Descrevam brevemente cada uma das três.  
 
 2. Como é a participação feminina no universo dos desenvolvedores aqui no Brasil?  
 

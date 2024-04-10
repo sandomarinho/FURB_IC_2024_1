@@ -10,16 +10,16 @@ Iniciaremos esta unidade com uma atividade para as equipes analisando uma pesqui
 ### Stack Overflow
 
 A Pesquisa Anual da Stack Overflow é a maior e mais abrangente pesquisa sobre pessoas que programam ao redor do mundo.  
-Na versão 2021 (11a edição da pesquisa), quase 80 mil desenvolvedores de 180 países participaram, qualificando os resultados como uma real fotografia do universo dos que trabalham nos bastidores da informática.  
+Na versão 2023 (13a edição da pesquisa), quase 80 mil desenvolvedores de 180 países participaram, qualificando os resultados como uma real fotografia do universo dos que trabalham nos bastidores da informática.  
 
 #### Atividade Developer Survey Results 2021
 
 Na aula de hoje iremos conhecer seus resultados e refletir um pouco sobre nossa carreira.  
 Os grupos são as equipes que já foram definidas, preparem seu inglês e vamos lá!  
 
-<https://insights.stackoverflow.com/survey/2021>  
+<https://insights.stackoverflow.com/survey/2023>  
 
-A equipe deve responder as perguntas abaixo observando os resultados da pesquisa 2021. O conjunto de respostas será postado como um novo tópico de discussão do fórum no [AVA3](<https://ava3.furb.br/mod/assign/view.php?id=850683> "AVA3"). Não esqueçam de identificar os membros da equipe no início da resposta.  
+A equipe deve responder as perguntas abaixo observando os resultados da pesquisa 2021. O conjunto de respostas será postado como um novo tópico de discussão do fórum no [AVA3](<https://ava3.furb.br/mod/assign/view.php?id=904311> "AVA3"). Não esqueçam de identificar os membros da equipe no início da resposta.  
 
 Quando uma pergunta apresentar seus resultados separando os desenvolvedores profissionais (professional developers), utilize estes dados para basear sua resposta (a aba dos desenvolvedores profissionais).  
 Se a pergunta fizer menção a cada membro da equipe, coloque o nome de cada um e sua respectiva resposta.  
@@ -52,27 +52,27 @@ Boa atividade. E lembrem, discutam as respostas com os seus colegas de equipe �
 
 ## Aula06
 
-### Palestra Fabio Jascone
+### Palestra com ???
 
 <!--
-No dia 08/abril teremos uma conversa com o Gerente de Pesquisa e Desenvolvimento da Philips, Fábio Jascone. Ele abordará aspectos do cotidiano de uma equipe de desenvolvimento de software em uma empresa de grande porte. Além de muitas dicas para o desenvolvimento da carreira em TI. 
+No dia ??? teremos uma conversa com o Gerente de Pesquisa e Desenvolvimento da Philips, ???. Ele abordará aspectos do cotidiano de uma equipe de desenvolvimento de software em uma empresa de grande porte. Além de muitas dicas para o desenvolvimento da carreira em TI. 
 -->
 
-Bom, vamos continuar olhando como está o Mercado de trabalho na área da Computação. Então convido a todos a primeiro olharem um pouco sobre o nosso palestrante, Fabio Jascone, vitando os links abaixo:
+Bom, vamos continuar olhando como está o Mercado de trabalho na área da Computação. Então convido a todos a primeiro olharem um pouco sobre o nosso palestrante, ???, vitando os links abaixo:
 
-- [Fabio Jascone: linkedIn](<https://br.linkedin.com/in/fabiojascone/en> "Fabio Jascone: linkedIn")  
-- [Fabio Jascone: FURB/DSC monografia](<https://www.furb.br/dsc/arquivos/tccs/monografias/2003-2fabioltjasconevf.pdf> "Fabio Jascone: FURB/DSC monografia")  
+- [???: linkedIn](<???> "???: linkedIn")  
+- [???: ???](<???> "???")  
 
 E agora assista a sua palestra como gerente de projeto na empresa Philips:
 
-- [Fabio Jascone: Palestra [1:31:01]](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EePEEhMq5StGoyaRffdnCZkBfDEBsIUdVR9evK7mJlcqUA?e=cS8OfW> "Fabio Jascone: Palestra")  
+- [???: Palestra [1:31:01]](<???> "???")
 
 #### Atividade Palestra
 
 Após ter assistido a palestra que tal trocar algumas ideias!  
 Então peço que participe do fórum disponível mais abaixo para fazer um comentário de algum momento da palestra que você mais gostou ou que possa vir a contribuir na sua carreira profissional. E também mencione um dos possíveis cargos da área da computação na empresa que foi comentado na palestra. Comente o que o Jascone disse sobre o papel da Universidade na sua formação profissional. E cite algumas dicas deixadas por ele para melhorar o seu portfólio profissional.  
 
-- [Comentários sobre a Palestra](<https://ava3.furb.br/mod/assign/view.php?id=862089> "Comentários sobre a Palestra")  
+- [Comentários sobre a Palestra](<https://ava3.furb.br/mod/assign/view.php?id=904312> "Comentários sobre a Palestra")  
 
 Para saber mais:  
 
@@ -99,45 +99,45 @@ Não esqueça de apresentar este pontos:
 
 ##### Equipe 1
 
-Alunos: Jaime Junior Rodrigues, João Victor Rodrigues, Lucas Samuel Gustzaki e Pedro Henrique Windisch  
+Alunos: 
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP1---Elinton-Maral---SCI-e1o7o2f>
 
 ##### Equipe 2
 
-Alunos: Caio Farias Pereira, Gustavo Vergilio Poleza, Lucas Kuhl dos SantosMiguel Kurchevski Gutierrez e Thiago Henrique Russi  
+Alunos: 
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP2---Udo-Schroeder---CIB-e1o7p05>  
 
 ##### Equipe 3
 
-Alunos: Enzo Gabriel da Rocha, Gabrielle Piske, Lucas Neves, Richard Nathan Domingos e Saionara Inácio  
+Alunos: 
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP3---Bruno-Tiergarten---BlusoftMegasul-e1o7p58>  
 
 ##### Equipe 4
 
-Alunos: Alex Vieira Dias, Caio Dalagnoli Dranka, Lemuel Kauê Manske de Liz e Vinícius Müller  
+Alunos: 
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP4---Marcelo-Ferrari---Datainfo-e1o7pkj>  
 
 ##### Equipe 5
 
-Alunos: Guilherme Lazari Ribeiro, Júlio César Hornburg, Kawanna Cisz, Kayke Molinari, Kayla Gianotti Dias Macedo e Matheus Vicente de Mattos  
+Alunos: 
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP5---Monalessa---ERS---NEMO-e1pjcbi>  
 
 ##### Equipe 6
 
-Alunos: Eduardo Nitsche da Rosa, Gabriel Adriano Borges, Gabriel Fauxt e Michel Evandro da Silva  
+Alunos: 
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP6---Mrcio-Tomelin---WK-e1pdemn>  
 
 ##### Equipe 7
 
-Alunos: Fábio Felsky e Lucas Antônio Dellandréa Monteiro  
+Alunos: 
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP7---Aloisio-Arbegaus-e-Silvio-Etges---Teclgica-e1pevl6>  
 
 ##### Equipe 8
 
-Alunos: João Gabriel Felizetti e Mikhael Zimmermann  
+Alunos: 
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP8---Roberto-C--Pereira-e-Jan-Peter-Findeiss---NTT-DATA-e1pf086>  
 
 ##### Equipe 9
 
-Alunos: Davi Leone Tamanini e Gabriel Pires Meyer  
+Alunos: 
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP9---Gabriel-Amncio---Unifique-e1r3p7s>  

@@ -17,12 +17,11 @@ Na versão 2023 (13a edição da pesquisa), quase 80 mil desenvolvedores de 180 
 Na aula de hoje iremos conhecer seus resultados e refletir um pouco sobre nossa carreira.  
 Os grupos são as equipes que já foram definidas, preparem seu inglês e vamos lá!  
 
-<https://insights.stackoverflow.com/survey/2023>  
+<https://survey.stackoverflow.co/2023>  
 
 A equipe deve responder as perguntas abaixo observando os resultados da pesquisa 2023. O conjunto de respostas será postado como um novo tópico de discussão do fórum no [AVA3](<https://ava3.furb.br/mod/assign/view.php?id=904311> "AVA3"). Não esqueçam de identificar os membros da equipe no início da resposta.  
 
-Quando uma pergunta apresentar seus resultados separando os desenvolvedores profissionais (professional developers), utilize estes dados para basear sua resposta (a aba dos desenvolvedores profissionais).  
-Se a pergunta fizer menção a cada membro da equipe, coloque o nome de cada um e sua respectiva resposta.  
+Quando uma pergunta apresentar seus resultados separando os desenvolvedores profissionais (professional developers), utilize estes dados para basear sua resposta (a aba dos desenvolvedores profissionais). Se a pergunta fizer menção a cada membro da equipe, coloque o nome de cada um e sua respectiva resposta. * Se não conseguir encontrar a resposta na pesquisa de 2023, tenta achá-la na edição de 2021 <https://survey.stackoverflow.co/2021>.
 
 1. Que tipos de atividades ligadas a desenvolvimento de software podem ser listadas? O que vocês imaginam que façam três delas? Descrevam brevemente cada uma das três.  
 

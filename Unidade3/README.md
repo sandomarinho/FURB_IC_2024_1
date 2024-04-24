@@ -51,25 +51,23 @@ Boa atividade. E lembrem, discutam as respostas com os seus colegas de equipe �
 
 ## Aula06
 
-### Palestra com ???
+### Palestra com Daniel Dalcastagne e o time de RH da Philips Healthcare Technology.
 
 <!--
-No dia ??? teremos uma conversa com o Gerente de Pesquisa e Desenvolvimento da Philips, ???. Ele abordará aspectos do cotidiano de uma equipe de desenvolvimento de software em uma empresa de grande porte. Além de muitas dicas para o desenvolvimento da carreira em TI. 
+No dia 17/04/2024, teremos uma conversa com o Gerente de Pesquisa e Desenvolvimento da Philips, Daniel Dalcastagne. Ele abordará aspectos do cotidiano de uma equipe de desenvolvimento de software em uma empresa de grande porte. Além de muitas dicas para o desenvolvimento da carreira em TI. 
 -->
 
-Bom, vamos continuar olhando como está o Mercado de trabalho na área da Computação. Então convido a todos a primeiro olharem um pouco sobre o nosso palestrante, ???, vitando os links abaixo:
+Bom, vamos continuar olhando como está o Mercado de trabalho na área da Computação. Então convido a todos a verificarem os perfis dos nossos palestrantes, visitando os links abaixo:
 
-- [???: linkedIn](<???> "???: linkedIn")  
-- [???: ???](<???> "???")  
+- [Daniel Dalcastagne: LinkedIn](<https://www.linkedin.com/in/daniel-dalcastagne-a35b1623/> "Daniel Dalcastagne: LinkedIn")  
+- [Gabriela Laurindo: LinkedIn](<https://www.linkedin.com/in/gabrielalaurindo/> "Gabriela Laurindo: LinkedIn")  
+- [Yasmin Rahn: LinkedIn](<https://www.linkedin.com/in/yasmin-rahn-768197153/> "Yasmin Rahn: LinkedIn")  
 
-E agora assista a sua palestra como gerente de projeto na empresa Philips:
-
-- [???: Palestra [1:31:01]](<???> "???")
 
 #### Atividade Palestra
 
 Após ter assistido a palestra que tal trocar algumas ideias!  
-Então peço que participe do fórum disponível mais abaixo para fazer um comentário de algum momento da palestra que você mais gostou ou que possa vir a contribuir na sua carreira profissional. E também mencione um dos possíveis cargos da área da computação na empresa que foi comentado na palestra. Comente o que o Jascone disse sobre o papel da Universidade na sua formação profissional. E cite algumas dicas deixadas por ele para melhorar o seu portfólio profissional.  
+Então peço que participe do fórum disponível mais abaixo para fazer um comentário de algum momento da palestra que você mais gostou ou que possa vir a contribuir na sua carreira profissional. E também mencione um dos possíveis cargos da área da computação na empresa que foi comentado na palestra. Comente o que os palestrantes disseram sobre o papel da Universidade na sua formação profissional. E cite algumas dicas recebidas para melhorar o seu portfólio profissional.  
 
 - [Comentários sobre a Palestra](<https://ava3.furb.br/mod/assign/view.php?id=904312> "Comentários sobre a Palestra")  
 

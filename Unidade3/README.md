@@ -85,7 +85,7 @@ Bom, agora cada equipe vai preparar uma apresentação usando a forma que achar 
 
 #### Atividade PodCast 🎙️
 
-Elaborar uma apresentação estilo PowerPoint para compartilhar com a turma. Não esqueça de apresentar este pontos:
+Ouvir o podcast atribuído para você ou sua equipe e elaborar uma pequena apresentação (máximo de 5 slides) para compartilhar com a turma. Não esqueça de considerar os seguintes pontos:
 - quem são os entrevistados;
 - qual tecnologia é o episódio ... explicar um pouco a tecnologia;
 - comentar dos principais assuntos abordados; 

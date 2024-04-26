@@ -93,49 +93,40 @@ Não esqueça de apresentar este pontos:
 - enriqueça a sua apresentação com recursos visuais (imagens, video, etc.);
 - Elaborar uma apresentação estilo PowerPoint para compartilhar com a turma.
 
-**Prazo**: próxima aula.  
+**Prazo**: aula do dia 08/MAI.  
 
 ##### PodCast 1
-
-Alunos: André Luiz & Felipe Grochovski | Diego Borba
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP1---Elinton-Maral---SCI-e1o7o2f>
+Alunos: André Luiz & Felipe Grochovski | Diego Borba
 
 ##### PodCast 2
-
-Alunos: Dylan Dirschnabel & Vitória Knihs | Elcio Wippel & Guilherme Geisler
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP2---Udo-Schroeder---CIB-e1o7p05>  
+Alunos: Dylan Dirschnabel & Vitória Knihs | Elcio Wippel & Guilherme Geisler
 
 ##### PodCast 3
-
-Alunos: Ellen Mariana & Paulo Fontenele | Felipe Batista & Samuel Almeida
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP3---Bruno-Tiergarten---BlusoftMegasul-e1o7p58>  
+Alunos: Ellen Mariana & Paulo Fontenele | Felipe Batista & Samuel Almeida
 
 ##### PodCast 4
-
-Alunos: Felipe Boos & Matheus Hillesheim | Gabi Sofiati & Giulia Borges
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP4---Marcelo-Ferrari---Datainfo-e1o7pkj>  
+Alunos: Felipe Boos & Matheus Hillesheim | Gabi Sofiati & Giulia Borges
 
 ##### PodCast 5
-
-Alunos: Gabriel Bugmann & Rafael Setter | Geovani Debastiani & León Máximos
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP5---Monalessa---ERS---NEMO-e1pjcbi>  
+Alunos: Gabriel Bugmann & Rafael Setter | Geovani Debastiani & León Máximos
 
 ##### PodCast 6
-
-Alunos: Jonathan Court & Arthur Lopes | João Emanoel & Rafael Maiczuk
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP6---Mrcio-Tomelin---WK-e1pdemn>  
+Alunos: Jonathan Court & Arthur Lopes | João Emanoel & Rafael Maiczuk
 
 ##### PodCast 7
-
-Alunos: João Rodolfo & Lucas Will | Kauê Lunelli & Lucas Kreuch
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP7---Aloisio-Arbegaus-e-Silvio-Etges---Teclgica-e1pevl6>  
+Alunos: João Rodolfo & Lucas Will | Kauê Lunelli & Lucas Kreuch
 
 ##### PodCast 8
-
-Alunos: Lucas Obes & Nicolas Paterno | Maria Luiza Tomio & Sophia Oliveira
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP8---Roberto-C--Pereira-e-Jan-Peter-Findeiss---NTT-DATA-e1pf086>  
+Alunos: Lucas Obes & Nicolas Paterno | Maria Luiza Tomio & Sophia Oliveira
 
 ##### PodCast 9
-
-Alunos: Nicholas Andrey & Mateus Koch | Pedro Godri & Yasmin Alves
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP9---Gabriel-Amncio---Unifique-e1r3p7s>  
+Alunos: Nicholas Andrey & Mateus Koch | Pedro Godri & Yasmin Alves

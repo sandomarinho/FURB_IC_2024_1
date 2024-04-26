@@ -95,10 +95,6 @@ Não esqueça de apresentar este pontos:
 
 **Prazo**: aula do dia 08/MAI.  
 
-##### PodCast 1
-<https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP1---Elinton-Maral---SCI-e1o7o2f>
-Alunos: André Luiz & Felipe Grochovski | Diego Borba
-
 ##### PodCast 2
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP2---Udo-Schroeder---CIB-e1o7p05>  
 Alunos: Dylan Dirschnabel & Vitória Knihs | Elcio Wippel & Guilherme Geisler

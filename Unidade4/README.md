@@ -5,10 +5,6 @@ Reconhecer os principais sistemas operacionais do mercado. Identificar as princi
 
 ## Aula07
 
-### Palestra Unidade 3 - Conversa
-
-- [Unidade3_PalestraConversa.pdf](Unidade3_PalestraConversa.pdf "Unidade3_PalestraConversa.pdf")  
-
 ### Sistemas Operacionais
 
 ### Atividade Sistemas Operacionais
@@ -31,7 +27,7 @@ Em equipe, busquem por informações para responder às seguintes perguntas:
 10) Suponha que um SO de multiprogramação tenha alocado fatias de tempo de 10 milissegundos e que a máquina tenha executado uma média de cinco instruções por nanossegundo. Quantas instruções poderiam ser executadas em uma única fatia de tempo?  
 11) Se um digitador digitasse sessenta palavras por minuto (considerando que uma palavra tenha cinco caracteres), quanto tempo há entre a digitação de cada caractere? Se um SO de multiprogramação tivesse alocado fatias de tempo de 10 milissegundos e se ignorássemos o tempo necessário para a troca de processos, quantas fatias de tempo poderiam ser alocadas entre os caracteres sendo digitados?
 
-Neste fórum cada equipe publicará suas respostas [AVA3](<https://ava3.furb.br/mod/forum/view.php?id=525072> "AVA3").  
+Neste fórum cada equipe publicará suas respostas [AVA3](<https://ava3.furb.br/mod/assign/view.php?id=943605> "AVA3").  
 Como?
 Cada pergunta foi postada como um tópico e deverá receber a respectiva resposta da equipe. Não esqueça de colocar no início da resposta os nomes dos integrantes da equipe e as fontes (referências) pesquisadas para responder.
 Caso alguém queira fazer algum comentário, complemento ou contraposição à resposta de uma equipe, sinta-se à vontade para discutir.

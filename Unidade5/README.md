@@ -14,7 +14,7 @@ Situar sobre a história das linguagens de programação. Identificar as fases d
 
 Vamos iniciar as discussões desta unidade passeando um pouco sobre as Linguagens de Programação e os Ambientes de Desenvolvimento (IDEs).  
 
-Em equipe, escolham uma Linguagem de Programação (menos Java) e uma IDE (menos VSCode), e postem no fórum no  [AVA3](<https://ava3.furb.br/mod/assign/view.php?id=943607> "AVA3").
+Em equipe, escolham uma Linguagem de Programação (menos Java) e uma IDE (menos VSCode), e postem no fórum no  [AVA3](<https://ava3.furb.br/mod/forum/view.php?id=943610> "AVA3").
 
 **ATENÇÃO** Cada equipe deve ter uma Linguagem e IDE diferente. A primeira equipe que postar sua escolha garante o assunto escolhido.  O assunto escolhido não pode ser trocado, uma vez que foi escolhido.  
 
@@ -34,7 +34,7 @@ Slides IDE:
 3) Imagem da Interface (explicar algumas funções)  
 4) Permite extensões (etc.)  
 
-Bom, agora utilizem novamente este fórum para cada equipe postarem seus slides [AVA3](<https://ava3.furb.br/mod/assign/view.php?id=943607> "AVA3").  
+Bom, agora utilizem novamente este fórum para cada equipe postarem seus slides [AVA3](<https://ava3.furb.br/mod/forum/view.php?id=943610> "AVA3").  
 
 ## Aula10
 

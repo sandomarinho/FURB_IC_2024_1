@@ -6,10 +6,11 @@ Compreender as características de uma sociedade sustentável. Reconhecer os asp
 ## Aula11 - Vídeos sobre Sustentabilidade e Tecnologia
 
 ### The Story of Stuff (A História das Coisas)
-[StoryOfStuff](<https://www.youtube.com/watch?v=xaglF9jhZLs> "https://www.youtube.com/watch?v=xaglF9jhZLs")
+[https://www.youtube.com/watch?v=xaglF9jhZLs](<https://www.youtube.com/watch?v=xaglF9jhZLs> "https://www.youtube.com/watch?v=xaglF9jhZLs")
 
 ### The Simpsons - S9:E22 Trash of the Titans
-[TheSimpsons](<https://www.starplus.com/video/6da3fbc3-cf7f-4bff-8e00-5ce4760aceff> "https://www.starplus.com/video/6da3fbc3-cf7f-4bff-8e00-5ce4760aceff")
+[https://www.starplus.com/video/6da3fbc3-cf7f-4bff-8e00-5ce4760aceff](<https://www.starplus.com/video/6da3fbc3-cf7f-4bff-8e00-5ce4760aceff> "https://www.starplus.com/video/6da3fbc3-cf7f-4bff-8e00-5ce4760aceff")
+[https://tv.apple.com/us/episode/trash-of-the-titans/umc.cmc.64ld6c42lu66ke0waihz0knto](<https://tv.apple.com/us/episode/trash-of-the-titans/umc.cmc.64ld6c42lu66ke0waihz0knto> "https://tv.apple.com/us/episode/trash-of-the-titans/umc.cmc.64ld6c42lu66ke0waihz0knto")
 
 <!--
 ## Aula11

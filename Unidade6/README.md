@@ -10,6 +10,7 @@ Compreender as características de uma sociedade sustentável. Reconhecer os asp
 
 ### The Simpsons - S9:E22 Trash of the Titans
 [https://www.starplus.com/video/6da3fbc3-cf7f-4bff-8e00-5ce4760aceff](<https://www.starplus.com/video/6da3fbc3-cf7f-4bff-8e00-5ce4760aceff> "https://www.starplus.com/video/6da3fbc3-cf7f-4bff-8e00-5ce4760aceff")
+
 [https://tv.apple.com/us/episode/trash-of-the-titans/umc.cmc.64ld6c42lu66ke0waihz0knto](<https://tv.apple.com/us/episode/trash-of-the-titans/umc.cmc.64ld6c42lu66ke0waihz0knto> "https://tv.apple.com/us/episode/trash-of-the-titans/umc.cmc.64ld6c42lu66ke0waihz0knto")
 
 <!--
